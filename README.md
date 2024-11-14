@@ -26,7 +26,7 @@
 
 [铭文代币](https://coinlaunch.app/#/co/ins)：公平发射代币  
 
-## 预售型代币
+## 预售类代币
 [公平发射（免dApp）](https://coinlaunch.app/#/co/50/?t=1)：通过转账实现公平铸造，无需铸造dApp  
 
 [标准代币（兼预售）](https://coinlaunch.app/#/co/50/?t=0)：通过转账实现预售的标准代币，无需预售dApp  
@@ -39,12 +39,12 @@
 
 [营销代币（兼预售）](https://coinlaunch.app/#/co/mk/?t=1)：通过转账实现预售的营销代币，无需预售dApp     
 
-## Swap型代币
+## 交易类代币
 [ERC314代币](https://cryptoservice.io/#/co/314)：无需Swap，通过转账自动买卖交易 
 
 [X314代币](https://cryptoservice.io/#/co/x314)：无需Swap，通过转账自动买卖交易 + 买卖滑点 + 每日燃烧通缩机制 + 交易冷却机制（防MEV攻击）  
 
-## 预售 + Swap型代币
+## 预售 & 交易类代币
 [ERC314代币（兼预售）](https://coinlaunch.app/#/co/s314)：带有预售的ERC314代币  
 
 [X314代币（兼预售）](https://coinlaunch.app/#/co/x314)：带有预售的X314代币  
