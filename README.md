@@ -1,6 +1,6 @@
 [简体中文]()  |  [English](https://github.com/coinlaunch/web/?tab=readme-ov-file#coin-launch)
 
-# 代币发射平台
+# 代币发射工厂
 标准代币、营销代币、持币分红、持币复利、加池分红、ERC314代币 X314代币、ERC50代币。
 
 官网：[https://tokenfactory.app/](https://tokenfactory.app/)
@@ -60,7 +60,7 @@
 
 ----
 
-# Coin Launch
+# Token Factory
 Standard tokens, marketing tokens, holding dividends, holding compound interest, pool dividends, ERC314 tokens, X314 tokens, ERC50 tokens.
 
 Website：[https://tokenfactory.app/](https://tokenfactory.app/)
